@@ -100,8 +100,8 @@ convidado a se retirar.
 
 # Mensalidades
 
-Todos os associados devem contribuir financeiramente com o Tarrafa, na forma de
-mensalidades. Os valores das mensalidades estão flexibilizados em R$20,00,
+- Todos os associados devem contribuir financeiramente com o Tarrafa, na forma
+de mensalidades. Os valores das mensalidades estão flexibilizados em R$20,00,
 R$40,00, ou R$60,00.
 
 # Momento de Excepcionalidade do Tarrafa (Novembro de 2012 até agora)
