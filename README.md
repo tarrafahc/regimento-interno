@@ -72,8 +72,8 @@ instrumentação caríssimos, faz elas ocuparem todo seu tempo livre.
 completamente erradas, mas também comprovadamente erradas, violando todas as
 leis da física.
 
-- Mas quem somos nós, um mero espaço hacker, para julgar as leis da física? Ou
-as neuroses de alguém? Ou o princípio do terceiro excluído? Seguir um sonho vale
+- Mas quem somos nós, um mero espaço hacker, para julgar as leis da física? Ou as
+neuroses de alguém? Ou o princípio do terceiro excluído? Seguir um sonho vale
 muito mais do que o rigor da lógica clássica usual, ou qualquer outra que se
 decida usar, e este sonho não deve ser interrompido.
 
@@ -115,12 +115,14 @@ acima.
 
 - Mesmo assim, é essencial que os associados continuem pagando as mensalidades.
 
-__Parágrafo Solitário__: O Tarrafa não é "da UFSC".
+# Parágrafo Solitário
+
+- O Tarrafa não é "da UFSC".
 
 # Chaves
 
-Por estarmos em um momento de excepcionalidade do Tarrafa, ficou definido que o
-número de chaves disponíveis aos associados está limitada em 8. Estas chaves
+- Por estarmos em um momento de excepcionalidade do Tarrafa, ficou definido que
+o número de chaves disponíveis aos associados está limitada em 8. Estas chaves
 pertencem ao Tarrafa e portanto não têm donos próprios. As chaves devem ser
 transferidas entre os associados, sempre que necessário, dependendo da
 participação e da atividade dos associados, visando o maior uptime possível para
