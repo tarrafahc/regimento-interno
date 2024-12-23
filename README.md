@@ -12,9 +12,10 @@ assumam o mesmo objetivo.
 
 # Princípios de Operação do Tarrafa
 
-- Os membros do Tarrafa devem ser excelentes uns com os outros; - O Tarrafa não
-é uma empresa; - O processo é mais importante que o produto final; - Nenhuma
-atividade precisa ter um propósito pré-estabelecido;
+- Os membros do Tarrafa devem ser excelentes uns com os outros;
+- O Tarrafa não é uma empresa;
+- O processo é mais importante que o produto final;
+- Nenhuma atividade precisa ter um propósito pré-estabelecido;
 
 # Secretarias e Superintendências
 
